@@ -1,0 +1,69 @@
+/* changing body color */
+body {
+    background-color: #efeee7;
+}
+/* change font for body */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* change font color for body */
+body {
+    color: #333333;
+}
+/* make body flush with top of the page */
+body {
+    margin: 0;
+    padding: 0;
+  }
+/*change background color of header */
+header {
+    background-color: #333333;
+}
+/* change color and size of h1 */
+h1 {
+    color: #eee; font-size: 28px; margin: 0;
+    padding: 45px;
+}
+/* change font size of h2 */
+h2 {
+    font-size: 24px;
+}
+/* make container width 1024px and margin 0 auto*/
+.container {
+    margin: 0 auto;
+}
+/*make main-bio float left*/
+#main-bio {
+    float: left;
+} 
+/*make contact-info bio float left*/
+#contact-info {
+    float: left;
+}
+/*make bio-image float left*/
+#bio-image {
+    float: left;
+}
+/*change bio-image width */
+#bio-image {
+    width: 200px;
+}
+/*change main-bio width */
+#main-bio {
+    width: 70%;
+}
+/* change contact-info width */
+#contact-info {
+    width: 30%
+}
+/*change bio-image margin */
+#bio-image {
+    margin: 10px;
+}
+/* change line-height of contact-info */
+#contact-info {
+    line-height: 1.5em;
+}
+hr {
+    color: #333333
+}
