@@ -62,8 +62,5 @@ h2 {
 }
 /* change line-height of contact-info */
 #contact-info {
-    line-height: 1.5em;
-}
-hr {
-    color: #333333
+    line-height: 1.5em; 
 }
